@@ -1,4 +1,4 @@
-# 🔤 TextUtils | Versatile Text Analysis & Transformation Utility
+# TextUtils | Versatile Text Analysis & Transformation Utility
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## ⚡ Transformations & Tools
+## Transformations & Tools
 
 - **Case Conversions:** UPPERCASE, lowercase, Title Case, Sentence case.
 - **Lexical Metrics:** Real-time character counts, word counts, and estimated reading duration.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ```bash
 git clone https://github.com/mesumali-dev/text-utils-app.git
@@ -30,5 +30,5 @@ npm start
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
