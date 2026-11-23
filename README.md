@@ -1,4 +1,4 @@
-# 🔤 TextUtils — Versatile Text Analysis & Transformation Utility
+# 🔤 TextUtils | Versatile Text Analysis & Transformation Utility
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
@@ -31,4 +31,4 @@ npm start
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
